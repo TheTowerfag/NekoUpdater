@@ -1,6 +1,6 @@
 
 <Version: 1.01>
-/data/CommonEvents.json https://github.com/TheTowerfag/NekoUpdater/blob/main/CommonEvents.json
-/js/plugins.js https://github.com/TheTowerfag/NekoUpdater/blob/main/plugins.js
-/js/plugins/SRD_AutoUpdaterFIX.js https://github.com/TheTowerfag/NekoUpdater/blob/main/SRD_AutoUpdaterFIX.js
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/js/plugins.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/plugins.js
+/js/plugins/SRD_AutoUpdaterFIX.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/SRD_AutoUpdaterFIX.js
 <End of Version>
