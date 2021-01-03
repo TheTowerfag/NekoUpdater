@@ -4,3 +4,8 @@
 /js/plugins.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/plugins.js
 /js/plugins/SRD_AutoUpdaterFIX.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/SRD_AutoUpdaterFIX.js
 <End of Version>
+
+<Version: 1.03>
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
+<End of Version>
