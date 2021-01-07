@@ -7,8 +7,14 @@
 /data/Armors.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Armors.json
 /data/Map012.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map012.json
 /data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
-/data/Map018.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map018.json
 /data/Map031.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map031.json
 /img/system/IconSet.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/IconSet.rpgmvp
 /img/characters/!$Other3.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Other3.rpgmvp
+<End of Version>
+
+<Version: 2.02>
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/js/plugins.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/plugins.js
+/data/Map018.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map018.json
+/data/Map020.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map020.json
 <End of Version>
