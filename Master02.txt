@@ -1,15 +1,2 @@
-
 <Version: 2.00>
-<End of Version>
-
-<Version: 2.01>
-/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
-/data/Items.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Items.json
-/data/Armors.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Armors.json
-/data/Map012.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map012.json
-/data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
-/data/Map018.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map018.json
-/data/Map031.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map031.json
-/img/system/IconSet.rpgmvp https://github.com/TheTowerfag/NekoUpdater/blob/main/IconSet.rpgmvp?raw=true
-/img/characters/!$Other3.rpgmvp https://github.com/TheTowerfag/NekoUpdater/blob/main/!$Other3.rpgmvp?raw=true
 <End of Version>
