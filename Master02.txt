@@ -29,3 +29,7 @@
 /data/Map047.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map047.json
 /data/Map051.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map051.json
 <End of Version>
+
+<Version: 2.05>
+/img/characters/$Load.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Load.rpgmvp
+<End of Version>
