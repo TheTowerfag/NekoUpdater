@@ -4,8 +4,6 @@
 <Version: 2.01>
 /data/Items.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Items.json
 /data/Armors.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Armors.json
-/data/Map012.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map012.json
-/data/Map031.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map031.json
 /img/system/IconSet.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/IconSet.rpgmvp
 /img/characters/!$Other3.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Other3.rpgmvp
 <End of Version>
@@ -18,15 +16,11 @@
 <End of Version>
 
 <Version: 2.04>
-/js/plugins.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/plugins.js
 /data/Map001.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map001.json
 /data/Map007.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map007.json
 /data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
 /data/Map018.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map018.json
 /data/Map020.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map020.json
-/data/Map046.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map046.json
-/data/Map047.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map047.json
-/data/Map051.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map051.json
 <End of Version>
 
 <Version: 2.05>
@@ -34,5 +28,38 @@
 <End of Version>
 
 <Version: 2.06>
+<End of Version>
+
+<Version: 2.07>
 /data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/js/plugins.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/plugins.js
+/data/Map002.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map002.json
+/data/Map012.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map012.json
+/data/Map013.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map013.json
+/data/Map014.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map014.json
+/data/Map015.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map015.json
+/data/Map016.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map016.json
+/data/Map021.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map021.json
+/data/Map022.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map022.json
+/data/Map023.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map023.json
+/data/Map024.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map024.json
+/data/Map025.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map025.json
+/data/Map026.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map026.json
+/data/Map027.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map027.json
+/data/Map028.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map028.json
+/data/Map029.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map029.json
+/data/Map030.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map030.json
+/data/Map031.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map031.json
+/data/Map032.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map032.json
+/data/Map034.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map034.json
+/data/Map035.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map035.json
+/data/Map042.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map042.json
+/data/Map043.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map043.json
+/data/Map045.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map045.json
+/data/Map046.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map046.json
+/data/Map047.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map047.json
+/data/Map048.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map048.json
+/data/Map049.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map049.json
+/data/Map051.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map051.json
+/data/Map054.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map054.json
 <End of Version>
