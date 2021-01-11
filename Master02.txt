@@ -60,15 +60,18 @@
 <End of Version>
 
 <Version: 2.08>
-/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
 /js/plugins.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/plugins.js
 /js/plugins/GALV_MessageBusts.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/GALV_MessageBusts.js
 /data/Map009.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map009.json
-/data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
 /data/Map045.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map045.json
 <End of Version>
 
 <Version: 2.09>
 /data/Map005.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map005.json
 /data/Map049.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map049.json
+<End of Version>
+
+<Version: 2.10>
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
 <End of Version>
