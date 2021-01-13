@@ -42,10 +42,8 @@
 /data/Map025.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map025.json
 /data/Map026.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map026.json
 /data/Map027.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map027.json
-/data/Map028.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map028.json
 /data/Map029.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map029.json
 /data/Map030.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map030.json
-/data/Map031.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map031.json
 /data/Map032.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map032.json
 /data/Map034.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map034.json
 /data/Map035.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map035.json
@@ -55,12 +53,10 @@
 /data/Map046.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map046.json
 /data/Map047.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map047.json
 /data/Map048.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map048.json
-/data/Map051.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map051.json
 /data/Map054.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map054.json
 <End of Version>
 
 <Version: 2.08>
-/js/plugins.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/plugins.js
 /js/plugins/GALV_MessageBusts.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/GALV_MessageBusts.js
 /data/Map009.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map009.json
 /data/Map045.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map045.json
@@ -72,6 +68,52 @@
 <End of Version>
 
 <Version: 2.10>
+<End of Version>
+
+<Version: 2.11>
 /data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/js/plugins.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/plugins.js
 /data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
+/data/Map028.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map028.json
+/data/Map031.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map031.json
+/data/Map051.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map051.json
+/js/plugins/YEP_SmartJump.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/YEP_SmartJump.js
+/data/Items.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Items.json
+/data/Tilesets.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Tilesets.json
+/img/system/IconSet.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/IconSet-2.rpgmvp
+/img/pictures/Shina_1.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Shina_1-1.rpgmvp
+/img/pictures/Shina_1u.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Shina_1u-1.rpgmvp
+/img/pictures/Shina_1n.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Shina_1n-1.rpgmvp
+/img/pictures/Shina_2.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Shina_2-1.rpgmvp
+/img/pictures/Shina_2u.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Shina_2u-1.rpgmvp
+/img/pictures/Shina_2n.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Shina_2n-1.rpgmvp
+/img/pictures/Shina_3.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Shina_3-1.rpgmvp
+/img/pictures/Shina_3u.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Shina_3u-1.rpgmvp
+/img/pictures/Shina_3n.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Shina_3n-1.rpgmvp
+/img/pictures/Shina_4.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Shina_4-1.rpgmvp
+/img/pictures/Shina_4u.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Shina_4u.rpgmvp
+/img/pictures/Shina_4n.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Shina_4n.rpgmvp
+/img/pictures/Shina_5.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Shina_5.rpgmvp
+/img/pictures/Shina_5u.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Shina_5u.rpgmvp
+/img/pictures/Shina_5n.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Shina_5n.rpgmvp
+/img/pictures/Shina_6.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Shina_6.rpgmvp
+/img/pictures/Shina_6u.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Shina_6u.rpgmvp
+/img/pictures/Shina_6n.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Shina_6n.rpgmvp
+/img/pictures/Shina_7.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Shina_7.rpgmvp
+/img/pictures/Shina_7u.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Shina_7u.rpgmvp
+/img/pictures/Shina_7n.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Shina_7n.rpgmvp
+/img/pictures/Shina_8.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Shina_8-1.rpgmvp
+/img/pictures/Shina_8u.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Shina_8u-1.rpgmvp
+/img/pictures/Shina_8n.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Shina_8n-1.rpgmvp
+/img/pictures/KirinHorn.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/KirinHorn.rpgmvp
+/img/pictures/BirdThigh.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/BirdThigh.rpgmvp
+/img/pictures/Maccarel.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Maccarel.rpgmvp
+/img/pictures/Steelhead.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Steelhead.rpgmvp
+/img/pictures/Spike.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Spike.rpgmvp
+/img/pictures/KillerCrayfish.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/KillerCrayfish.rpgmvp
+/img/pictures/BlueSalmon.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/BlueSalmon.rpgmvp
+/img/pictures/HungryGemini.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/HungryGemini.rpgmvp
+/img/pictures/LiliGoby.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/LiliGoby.rpgmvp
+/img/pictures/AngelHair.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/AngelHair.rpgmvp
+/img/pictures/SpringChampion.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/SpringChampion.rpgmvp
 <End of Version>
