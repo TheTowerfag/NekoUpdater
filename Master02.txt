@@ -78,7 +78,6 @@
 /data/Map031.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map031.json
 /data/Map051.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map051.json
 /js/plugins/YEP_SmartJump.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/YEP_SmartJump.js
-/data/Items.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Items.json
 /data/Tilesets.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Tilesets.json
 /img/system/IconSet.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/IconSet-2.rpgmvp
 /img/pictures/Shina_1.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Shina_1-1.rpgmvp
@@ -116,4 +115,9 @@
 /img/pictures/LiliGoby.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/LiliGoby.rpgmvp
 /img/pictures/AngelHair.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/AngelHair.rpgmvp
 /img/pictures/SpringChampion.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/SpringChampion.rpgmvp
+<End of Version>
+
+<Version: 2.12>
+/data/Items.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Items.json
+/audio/se/Leap.rpgmvo https://princessconquest.com/wp-content/uploads/2021/01/Leap.rpgmvo
 <End of Version>
