@@ -1,1 +1,3 @@
-
+<Version: 3.00>
+/data/Items.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Items.json
+<End of Version>
