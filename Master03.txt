@@ -5,3 +5,9 @@
 <Version: 3.01>
 /js/plugins.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/plugins.js
 <End of Version>
+
+<Version: 3.02>
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/data/Map004.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map004.json
+/data/Map005.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map005.json
+<End of Version>
