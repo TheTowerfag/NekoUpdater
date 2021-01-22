@@ -60,3 +60,7 @@
 /img/pictures/Kaere_8u.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Kaere_8u.rpgmvp
 /img/pictures/Kaere_8n.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Kaere_8n.rpgmvp
 <End of Version>
+
+<Version: 3.04>
+/data/Animations.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Animations.json
+<End of Version>
