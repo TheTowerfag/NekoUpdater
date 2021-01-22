@@ -1,5 +1,4 @@
 <Version: 3.00>
-/data/Items.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Items.json
 <End of Version>
 
 <Version: 3.01>
@@ -7,7 +6,57 @@
 <End of Version>
 
 <Version: 3.02>
-/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
 /data/Map004.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map004.json
 /data/Map005.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map005.json
+<End of Version>
+
+<Version: 3.03>
+/data/Enemies.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Enemies.json
+/data/Items.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Items.json
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/data/Armors.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Armors.json
+/data/MapInfos.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/MapInfos.json
+/data/Map007.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map007.json
+/data/Map011.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map011.json
+/data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
+/data/Map018.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map018.json
+/data/Map048.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map048.json
+/data/Map051.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map051.json
+/data/Map052.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map052.json
+/data/Map054.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map054.json
+/data/Map056.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map056.json
+/audio/se/Shuffle.rpgmvo https://princessconquest.com/wp-content/uploads/2021/01/Shuffle.rpgmvo
+/audio/se/Shuffle2.rpgmvo https://princessconquest.com/wp-content/uploads/2021/01/Shuffle2.rpgmvo
+/audio/se/Splat.rpgmvo https://princessconquest.com/wp-content/uploads/2021/01/Splat.rpgmvo
+/audio/se/DogHowl.rpgmvo https://princessconquest.com/wp-content/uploads/2021/01/DogHowl.rpgmvo
+/audio/se/DogYelp.rpgmvo https://princessconquest.com/wp-content/uploads/2021/01/DogYelp.rpgmvo
+/img/characters/!$MadDogHowl.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/MadDogHowl.rpgmvp
+/img/characters/$Dog.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Dog.rpgmvp
+/img/characters/$MadDog.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/MadDog.rpgmvp
+/img/characters/!$Other2.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Other2.rpgmvp
+/img/pictures/HungryManacle.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/HungryManacle.rpgmvp
+/img/pictures/Kaere_1.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Kaere_1.rpgmvp
+/img/pictures/Kaere_1u.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Kaere_1u.rpgmvp
+/img/pictures/Kaere_1n.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Kaere_1n.rpgmvp
+/img/pictures/Kaere_2.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Kaere_2.rpgmvp
+/img/pictures/Kaere_2u.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Kaere_2u.rpgmvp
+/img/pictures/Kaere_2n.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Kaere_2n.rpgmvp
+/img/pictures/Kaere_3.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Kaere_3.rpgmvp
+/img/pictures/Kaere_3u.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Kaere_3u.rpgmvp
+/img/pictures/Kaere_3n.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Kaere_3n.rpgmvp
+/img/pictures/Kaere_4.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Kaere_4.rpgmvp
+/img/pictures/Kaere_4u.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Kaere_4u.rpgmvp
+/img/pictures/Kaere_4n.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Kaere_4n.rpgmvp
+/img/pictures/Kaere_5.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Kaere_5.rpgmvp
+/img/pictures/Kaere_5u.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Kaere_5u.rpgmvp
+/img/pictures/Kaere_5n.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Kaere_5n.rpgmvp
+/img/pictures/Kaere_6.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Kaere_6.rpgmvp
+/img/pictures/Kaere_6u.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Kaere_6u.rpgmvp
+/img/pictures/Kaere_6n.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Kaere_6n.rpgmvp
+/img/pictures/Kaere_7.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Kaere_7.rpgmvp
+/img/pictures/Kaere_7u.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Kaere_7u.rpgmvp
+/img/pictures/Kaere_7n.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Kaere_7n.rpgmvp
+/img/pictures/Kaere_8.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Kaere_8.rpgmvp
+/img/pictures/Kaere_8u.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Kaere_8u.rpgmvp
+/img/pictures/Kaere_8n.rpgmvp https://princessconquest.com/wp-content/uploads/2021/01/Kaere_8n.rpgmvp
 <End of Version>
