@@ -19,7 +19,6 @@
 /data/Map007.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map007.json
 /data/Map011.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map011.json
 /data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
-/data/Map018.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map018.json
 /data/Map048.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map048.json
 /data/Map051.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map051.json
 /data/Map052.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map052.json
@@ -63,4 +62,8 @@
 
 <Version: 3.04>
 /data/Animations.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Animations.json
+<End of Version>
+
+<Version: 3.05>
+/data/Map018.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map018.json
 <End of Version>
