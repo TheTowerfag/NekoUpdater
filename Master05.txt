@@ -11,4 +11,5 @@
 /data/Map012.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map012.json
 /data/Map019.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map019.json
 /data/Map020.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map020.json
+/data/Map036.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map036.json
 <End of Version>
