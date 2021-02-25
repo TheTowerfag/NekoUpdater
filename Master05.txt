@@ -2,4 +2,16 @@
 <End of Version>
 
 <Version: 5.01>
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map012.json
+/data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
+/data/Map018.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map018.json
+/data/Map019.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map036.json
+/data/Map020.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map046.json
+<End of Version>
+
+<Version: 5.02>
+/data/Map012.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map012.json
+/data/Map019.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map019.json
+/data/Map020.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map020.json
 <End of Version>
