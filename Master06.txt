@@ -1,2 +1,39 @@
 <Version: 6.00>
 <End of Version>
+
+<Version: 6.01>
+/data/Items.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Items.json
+/data/Armors.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Armors.json
+/data/Map020.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map020.json
+/data/Map046.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map046.json
+/data/Map012.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map012.json
+/data/Map009.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map009.json
+/data/Map011.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map011.json
+/data/Map037.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map037.json
+/data/Map023.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map023.json
+/data/Map048.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map048.json
+/data/Map062.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map062.json
+/data/Map045.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map045.json
+/data/Map054.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map054.json
+/data/Map049.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map049.json
+/img/pictures/Arm1.rpgmvp https://princessconquest.com/wp-content/uploads/2021/03/Arm1.rpgmvp
+/img/pictures/Arm2.rpgmvp https://princessconquest.com/wp-content/uploads/2021/03/Arm2.rpgmvp
+/img/pictures/Arm3.rpgmvp https://princessconquest.com/wp-content/uploads/2021/03/Arm3.rpgmvp
+/img/pictures/Arm4.rpgmvp https://princessconquest.com/wp-content/uploads/2021/03/Arm4.rpgmvp
+/img/pictures/Ring1.rpgmvp https://princessconquest.com/wp-content/uploads/2021/03/Ring1.rpgmvp
+/img/pictures/Ring2.rpgmvp https://princessconquest.com/wp-content/uploads/2021/03/Ring2.rpgmvp
+/img/pictures/Ring3.rpgmvp https://princessconquest.com/wp-content/uploads/2021/03/Ring3.rpgmvp
+/img/pictures/Ring4.rpgmvp https://princessconquest.com/wp-content/uploads/2021/03/Ring4.rpgmvp
+/img/pictures/Wills.rpgmvp https://princessconquest.com/wp-content/uploads/2021/03/Wills.rpgmvp
+/img/pictures/SplinterM.rpgmvp https://princessconquest.com/wp-content/uploads/2021/03/SplinterM.rpgmvp
+/img/pictures/SplinterR.rpgmvp https://princessconquest.com/wp-content/uploads/2021/03/SplinterR.rpgmvp
+/img/pictures/SplinterS.rpgmvp https://princessconquest.com/wp-content/uploads/2021/03/SplinterS.rpgmvp
+/img/pictures/SplinterT.rpgmvp https://princessconquest.com/wp-content/uploads/2021/03/SplinterT.rpgmvp
+/img/pictures/SplinterY.rpgmvp https://princessconquest.com/wp-content/uploads/2021/03/SplinterY.rpgmvp
+/img/pictures/ShardM.rpgmvp https://princessconquest.com/wp-content/uploads/2021/03/ShardM.rpgmvp
+/img/pictures/ShardR.rpgmvp https://princessconquest.com/wp-content/uploads/2021/03/ShardR.rpgmvp
+/img/pictures/ShardS.rpgmvp https://princessconquest.com/wp-content/uploads/2021/03/ShardS.rpgmvp
+/img/pictures/ShardT.rpgmvp https://princessconquest.com/wp-content/uploads/2021/03/ShardT.rpgmvp
+/img/pictures/ShardY.rpgmvp https://princessconquest.com/wp-content/uploads/2021/03/ShardY.rpgmvp
+/img/system/IconSet.rpgmvp https://princessconquest.com/wp-content/uploads/2021/03/IconSet.rpgmvp
+<End of Version>
