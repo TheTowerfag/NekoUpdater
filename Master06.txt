@@ -37,3 +37,7 @@
 /img/pictures/ShardY.rpgmvp https://princessconquest.com/wp-content/uploads/2021/03/ShardY.rpgmvp
 /img/system/IconSet.rpgmvp https://princessconquest.com/wp-content/uploads/2021/03/IconSet.rpgmvp
 <End of Version>
+
+<Version: 6.02>
+/data/Items.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Items.json
+<End of Version>
