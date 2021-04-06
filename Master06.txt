@@ -41,3 +41,11 @@
 <Version: 6.02>
 /data/Items.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Items.json
 <End of Version>
+
+<Version: 6.03>
+/data/Items.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Items.json
+/data/Map038.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map038.json
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/js/plugins.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/plugins.js
+/js/plugins/mv3d.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/mv3d.js
+<End of Version>
