@@ -14,3 +14,13 @@
 /data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
 /img/pictures/CG_29.rpgmvp https://princessconquest.com/wp-content/uploads/2021/06/CG_29.rpgmvp
 <End of Version>
+
+<Version: 7.03>
+/data/Map012.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map012.json
+/data/Map049.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map049.json
+/data/Map052.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map052.json
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/data/Items.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Items.json
+/audio/se/Cucco.rpgmvo https://princessconquest.com/wp-content/uploads/2021/06/Cucco.rpgmvo
+/img/characters/!$3x6.rpgmvp https://princessconquest.com/wp-content/uploads/2021/06/3x6.rpgmvp
+<End of Version>
