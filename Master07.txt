@@ -35,7 +35,6 @@
 /img/characters/!$Items3.rpgmvp https://princessconquest.com/wp-content/uploads/2021/06/Items3.rpgmvp
 /img/characters/!$Items.rpgmvp https://princessconquest.com/wp-content/uploads/2021/06/Items.rpgmvp
 /img/pictures/AnzuWine.rpgmvp https://princessconquest.com/wp-content/uploads/2021/06/AnzuWine.rpgmvp
-/img/pictures/ https://princessconquest.com/wp-content/uploads/2021/06/Gold-3.png
 /img/pictures/TownMap.rpgmvp https://princessconquest.com/wp-content/uploads/2021/06/TownMap.rpgmvp
 /img/pictures/Elixir.rpgmvp https://princessconquest.com/wp-content/uploads/2021/06/Elixir.rpgmvp
 /img/pictures/Potion.rpgmvp https://princessconquest.com/wp-content/uploads/2021/06/Potion.rpgmvp
