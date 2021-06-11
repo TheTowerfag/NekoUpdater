@@ -4,23 +4,18 @@
 <Version: 7.01>
 /data/Map046.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map046.json
 /data/Map047.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map047.json
-/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
 <End of Version>
 
 <Version: 7.02>
 /js/plugins.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/plugins.js
 /data/Map025.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map025.json
 /data/Map031.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map031.json
-/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
 /img/pictures/CG_29.rpgmvp https://princessconquest.com/wp-content/uploads/2021/06/CG_29.rpgmvp
 <End of Version>
 
 <Version: 7.03>
 /data/Map012.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map012.json
-/data/Map049.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map049.json
 /data/Map052.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map052.json
-/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
-/data/Items.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Items.json
 /audio/se/Cucco.rpgmvo https://princessconquest.com/wp-content/uploads/2021/06/Cucco.rpgmvo
 /img/characters/!$3x6.rpgmvp https://princessconquest.com/wp-content/uploads/2021/06/3x6.rpgmvp
 <End of Version>
@@ -36,7 +31,6 @@
 /data/Tilesets.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Tilesets.json
 /data/Enemies.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Enemies.json
 /data/MapInfos.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/MapInfos.json
-/img/characters/!$EmmaStance.rpgmvp https://princessconquest.com/wp-content/uploads/2021/06/EmmaStance.rpgmvp
 /img/characters/!$Other4.rpgmvp https://princessconquest.com/wp-content/uploads/2021/06/Other4.rpgmvp
 /img/characters/!$Items3.rpgmvp https://princessconquest.com/wp-content/uploads/2021/06/Items3.rpgmvp
 /img/characters/!$Items.rpgmvp https://princessconquest.com/wp-content/uploads/2021/06/Items.rpgmvp
@@ -54,4 +48,8 @@
 /img/pictures/Gold.rpgmvp https://princessconquest.com/wp-content/uploads/2021/06/Gold.rpgmvp
 /img/pictures/HungryManacle.rpgmvp https://princessconquest.com/wp-content/uploads/2021/06/HungryManacle.rpgmvp
 /img/system/IconSet.rpgmvp https://princessconquest.com/wp-content/uploads/2021/06/IconSet.rpgmvp
+<End of Version>
+
+<Version: 7.05>
+/img/characters/!$EmmaStance.rpgmvp https://princessconquest.com/wp-content/uploads/2021/06/EmmaStance.rpgmvp
 <End of Version>
