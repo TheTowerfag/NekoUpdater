@@ -1,2 +1,15 @@
 <Version: 9.00>
 <End of Version>
+
+<Version: 9.01>
+/img/SumRndmDde/auto-update/Background.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Background-1.rpgmvp
+/img/characters/$NekoDodge.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/NekoDodge.rpgmvp
+/img/pictures/Lua e Nuvem.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Lua-e-Nuvem.rpgmvp
+/img/pictures/Lua, Nuvem e Raio.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Lua-Nuvem-e-Raio.rpgmvp
+/img/pictures/Lua.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Lua.rpgmvp
+/img/pictures/Sol, Nuvem e Raio.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Sol-Nuvem-e-Raio.rpgmvp
+/img/pictures/Sol e Nuvem.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Sol-e-Nuvem.rpgmvp
+/img/pictures/Sol.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Sol.rpgmvp
+/img/pictures/Dois Pontos.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Dois-Pontos.rpgmvp
+/img/pictures/Relógio.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Relogio.rpgmvp
+<End of Version>
