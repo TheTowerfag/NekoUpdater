@@ -3,17 +3,27 @@
 
 <Version: 9.01>
 /img/characters/$NekoDodge.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/NekoDodge.rpgmvp
-/img/pictures/Lua_e_Nuvem.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Lua-e-Nuvem.rpgmvp
-/img/pictures/Lua,_Nuvem_e_Raio.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Lua-Nuvem-e-Raio.rpgmvp
+/img/pictures/Lua e Nuvem.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Lua-e-Nuvem.rpgmvp
+/img/pictures/Lua, Nuvem e Raio.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Lua-Nuvem-e-Raio.rpgmvp
 /img/pictures/Lua.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Lua.rpgmvp
-/img/pictures/Sol,_Nuvem_e_Raio.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Sol-Nuvem-e-Raio.rpgmvp
-/img/pictures/Sol_e_Nuvem.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Sol-e-Nuvem.rpgmvp
+/img/pictures/Sol, Nuvem e Raio.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Sol-Nuvem-e-Raio.rpgmvp
+/img/pictures/Sol e Nuvem.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Sol-e-Nuvem.rpgmvp
 /img/pictures/Sol.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Sol.rpgmvp
-/img/pictures/Dois_Pontos.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Dois-Pontos.rpgmvp
+/img/pictures/Dois Pontos.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Dois-Pontos.rpgmvp
 /img/pictures/Relógio.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Relogio.rpgmvp
 <End of Version>
 
 <Version: 9.02>
 /data/Map047.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map047.json
 /data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+<End of Version>
+
+<Version: 9.03>
+/img/pictures/Lua e Nuvem.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Lua-e-Nuvem.rpgmvp
+/img/pictures/Lua, Nuvem e Raio.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Lua-Nuvem-e-Raio.rpgmvp
+/img/pictures/Lua.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Lua.rpgmvp
+/img/pictures/Sol, Nuvem e Raio.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Sol-Nuvem-e-Raio.rpgmvp
+/img/pictures/Sol e Nuvem.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Sol-e-Nuvem.rpgmvp
+/img/pictures/Sol.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Sol.rpgmvp
+/img/pictures/Dois Pontos.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Dois-Pontos.rpgmvp
 <End of Version>
