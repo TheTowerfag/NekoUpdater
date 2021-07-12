@@ -12,3 +12,8 @@
 /img/pictures/Dois_Pontos.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Dois-Pontos.rpgmvp
 /img/pictures/Relógio.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Relogio.rpgmvp
 <End of Version>
+
+<Version: 9.02>
+/data/Map047.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map047.json
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+<End of Version>
