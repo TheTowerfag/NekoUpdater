@@ -17,3 +17,10 @@
 /data/Map047.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map047.json
 /data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
 <End of Version>
+
+<Version: 9.03>
+/audio/se/Splash.rpgmvo https://princessconquest.com/wp-content/uploads/2021/07/Splash.rpgmvo
+/img/animations/30FPS_ACQ026_Dark.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/30FPS_ACQ026_Dark.rpgmvp
+/img/animations/30FPS_ACQ001_Slash1.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/30FPS_ACQ001_Slash1.rpgmvp
+/data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
+<End of Version>
