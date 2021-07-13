@@ -24,3 +24,16 @@
 /img/animations/30FPS_ACQ001_Slash1.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/30FPS_ACQ001_Slash1.rpgmvp
 /data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
 <End of Version>
+
+<Version: 9.04>
+/audio/se/Raise1.rpgmvo https://princessconquest.com/wp-content/uploads/2021/07/Raise1.rpgmvo
+/audio/se/Raise2.rpgmvo https://princessconquest.com/wp-content/uploads/2021/07/Raise2.rpgmvo
+/img/pictures/FishingIcon.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/FishingIcon.rpgmvp
+/img/pictures/HoeIcon.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/HoeIcon.rpgmvp
+/data/Map037.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map037.json
+/data/Map047.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map047.json
+/data/Map049.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map049.json
+/data/Armors.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Armors.json
+/js/plugins.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/plugins.js
+/js/plugins/MND_SkipLoadError.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/MND_SkipLoadError.js
+<End of Version>
