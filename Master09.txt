@@ -37,3 +37,22 @@
 /js/plugins.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/plugins.js
 /js/plugins/MND_SkipLoadError.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/MND_SkipLoadError.js
 <End of Version>
+
+<Version: 9.05>
+/img/characters/!$MANACH-plants.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/MANACH-plants.rpgmvp
+/img/characters/!$MANACH-void.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/MANACH-void.rpgmvp
+/img/characters/!$ManacleDead.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/ManacleDead.rpgmvp
+/img/characters/!$Other5.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Other5.rpgmvp
+/img/characters/!$1x2.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/1x2.rpgmvp
+/img/characters/!$2x1B.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/2x1B.rpgmvp
+/img/characters/!$Nests.rpgmvp https://princessconquest.com/wp-content/uploads/2021/07/Nests.rpgmvp
+/data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
+/data/Map018.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map018.json
+/data/Map019.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map019.json
+/data/Map020.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map020.json
+/data/Map033.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map033.json
+/data/Map052.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map052.json
+/data/Map062.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map062.json
+/js/plugins/YEP_ButtonCommonEvents.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/YEP_ButtonCommonEvents.js
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+<End of Version>
