@@ -56,3 +56,9 @@
 /js/plugins/YEP_ButtonCommonEvents.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/YEP_ButtonCommonEvents.js
 /data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
 <End of Version>
+
+
+<Version: 9.06>
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/data/Map052.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map052.json
+<End of Version>
