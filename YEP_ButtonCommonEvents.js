@@ -1012,7 +1012,7 @@ Scene_Map.prototype.updateButtonEvents = function() {
       var eventId = Yanfly.Param.BCEList[key];
       if (eventId <= 0) continue;
       if (!Input.isRepeated(key)) continue;
-      if ($gameSwitches.value(31) === false) {
+      if ($gameSwitches.value(31) === false || eventId === 90 || eventId === 91) {
       $gameTemp.reserveCommonEvent(eventId);
       }
       break;
