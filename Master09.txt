@@ -50,11 +50,7 @@
 /data/Map018.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map018.json
 /data/Map019.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map019.json
 /data/Map020.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map020.json
-/data/Map033.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map033.json
-/data/Map052.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map052.json
 /data/Map062.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map062.json
-/js/plugins/YEP_ButtonCommonEvents.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/YEP_ButtonCommonEvents.js
-/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
 <End of Version>
 
 <Version: 9.06>
@@ -64,4 +60,8 @@
 
 <Version: 9.07>
 /data/Map033.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map033.json
+<End of Version>
+
+<Version: 9.08>
+/js/plugins/YEP_ButtonCommonEvents.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/YEP_ButtonCommonEvents.js
 <End of Version>
