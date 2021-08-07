@@ -1,2 +1,8 @@
 <Version: 10.00>
 <End of Version>
+
+<Version: 10.01>
+/data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
+/data/Map068.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map068.json
+/audio/se/Darkness3.rpgmvo https://princessconquest.com/wp-content/uploads/2021/08/Darkness3.rpgmvo
+<End of Version>
