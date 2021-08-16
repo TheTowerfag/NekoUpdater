@@ -353,18 +353,76 @@ Sprite_GalvBust.prototype.loadBitmap = function() {
 	} else {
         //
         Galv.MB.f = "";
-        if ($gameMessage.faceName() === "Shina" && $gameSwitches.value(152) === true){ //bath
+        if ($gameMessage.faceName() === "Shina"){ 
+        if ($gameActors.actor(4).equips()[1] && $gameActors.actor(4).equips()[1].id == 11){ //underwear
+          Galv.MB.f = "u";
+        } else if ($gameActors.actor(4).equips()[1] && $gameActors.actor(4).equips()[1].id == 12){ //naked
+          Galv.MB.f = "n";
+        } else if ($gameSwitches.value(152) === true){ //bath
           Galv.MB.f = "n";       
-        }
-        if ($gameMessage.faceName() === "Neneko" || $gameMessage.faceName() === "Neneko2"){                
-        if ($gameActors.actor(1).equips()[1] && $gameActors.actor(1).equips()[1].atypeId == 10){ //dress
-        Galv.MB.f = "";
+        } else if ($gameActors.actor(4).equips()[1] && $gameActors.actor(4).equips()[1].atypeId == 12){ //dress        
+          Galv.MB.f = "";
+        } else if ($gameActors.actor(4).equips()[2] && $gameActors.actor(4).equips()[2].etypeId == 8){ //panties
+          Galv.MB.f = "u";
         } else {
-        if ($gameActors.actor(1).equips()[2] && $gameActors.actor(1).equips()[2].etypeId == 8){ //panties
+          Galv.MB.f = "n";
+        }       
+        }
+        if ($gameMessage.faceName() === "Nou"){ 
+        if ($gameSwitches.value(152) === true){ //bath
+          Galv.MB.f = "n"; 
+        } else {
+          Galv.MB.f = "";
+        }       
+        }
+        if ($gameMessage.faceName() === "Kaere"){ 
+        if ($gameActors.actor(3).equips()[1] && $gameActors.actor(3).equips()[1].id == 11){ //underwear
+          Galv.MB.f = "u";
+        } else if ($gameActors.actor(3).equips()[1] && $gameActors.actor(3).equips()[1].id == 12){ //naked
+          Galv.MB.f = "n";
+        } else if ($gameSwitches.value(152) === true){ //bath
+          Galv.MB.f = "n";       
+        } else if ($gameActors.actor(3).equips()[1] && $gameActors.actor(3).equips()[1].atypeId == 11){ //dress        
+          Galv.MB.f = "";
+        } else if ($gameActors.actor(3).equips()[2] && $gameActors.actor(3).equips()[2].etypeId == 8){ //panties
+          Galv.MB.f = "u";
+        } else {
+          Galv.MB.f = "n";
+        }       
+        }
+        if ($gameMessage.faceName() === "AnzuSSS"){ 
+        if ($gameActors.actor(5).equips()[1] && $gameActors.actor(5).equips()[1].id == 11){ //underwear
+          Galv.MB.f = "u";
+        } else if ($gameActors.actor(5).equips()[1] && $gameActors.actor(5).equips()[1].id == 12){ //naked
+          Galv.MB.f = "n";
+        } else if ($gameSwitches.value(152) === true){ //bath
+          Galv.MB.f = "n";       
+        } else if ($gameActors.actor(5).equips()[1] && $gameActors.actor(5).equips()[1].atypeId == 13){ //dress        
+          Galv.MB.f = "";
+        } else if ($gameActors.actor(5).equips()[2] && $gameActors.actor(5).equips()[2].etypeId == 8){ //panties
+          Galv.MB.f = "u";
+        } else {
+          Galv.MB.f = "n";
+        }       
+        }
+        if ($gameMessage.faceName() === "Abigail"){ 
+        if ($gameSwitches.value(168) === true){ //bath
+          Galv.MB.f = "n"; 
+        } else {
+          Galv.MB.f = "";
+        }         
+        }       
+        if ($gameMessage.faceName() === "Neneko" || $gameMessage.faceName() === "Neneko2"){       
+        if ($gameActors.actor(1).equips()[1] && $gameActors.actor(1).equips()[1].id == 105){ //armor
+        Galv.MB.f = "sdf";
+        } else if ($gameActors.actor(1).equips()[1] && $gameActors.actor(1).equips()[1].atypeId == 10){ //dress
+        Galv.MB.f = "";
+        } else if ($gameActors.actor(1).equips()[2] && $gameActors.actor(1).equips()[2].id == 114){ //batpants
+        Galv.MB.f = "bat";
+        } else if ($gameActors.actor(1).equips()[2] && $gameActors.actor(1).equips()[2].etypeId == 8){ //panties
         Galv.MB.f = "u";
         } else {
         Galv.MB.f = "n";
-        }
         }
         }
         //
