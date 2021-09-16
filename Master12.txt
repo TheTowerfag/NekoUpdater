@@ -4,5 +4,5 @@
 <Version: 12.01>
 /data/Map052.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map052.json
 /data/Map068.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map068.json
-/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
 <End of Version>
