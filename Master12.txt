@@ -10,3 +10,8 @@
 <Version: 12.02>
 /js/plugins.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/plugins.js
 <End of Version>
+
+<Version: 12.03>
+/img/weather/Cloud_01At.rpgmvp https://princessconquest.com/wp-content/uploads/2021/09/Cloud_01At.rpgmvp
+/img/weather/Light_01D.rpgmvp https://princessconquest.com/wp-content/uploads/2021/09/Light_01D.rpgmvp
+<End of Version>
