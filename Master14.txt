@@ -15,3 +15,11 @@
 /img/pictures/CG_24.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/CG_24.rpgmvp
 /img/SumRndmDde/preload/Background.png https://princessconquest.com/wp-content/uploads/2021/11/Background-1.png
 <End of Version>
+
+<Version: 14.02>
+/data/Map019.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map019.json
+/img/characters/!$BellaDonnaATK0.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/BellaDonnaATK0.rpgmvp
+/img/characters/!$BellaDonnaATK1.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/BellaDonnaATK1.rpgmvp
+/img/characters/!$BellaDonnaATK2.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/BellaDonnaATK2.rpgmvp
+/img/characters/!$BellaDonnaATK3.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/BellaDonnaATK3.rpgmvp
+<End of Version>
