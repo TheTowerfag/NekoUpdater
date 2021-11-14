@@ -23,3 +23,7 @@
 /img/characters/!$BellaDonnaATK2.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/BellaDonnaATK2.rpgmvp
 /img/characters/!$BellaDonnaATK3.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/BellaDonnaATK3.rpgmvp
 <End of Version>
+
+<Version: 14.03>
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+<End of Version>
