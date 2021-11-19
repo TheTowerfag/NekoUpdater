@@ -27,3 +27,16 @@
 <Version: 14.03>
 /data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
 <End of Version>
+
+<Version: 14.04>
+/img/pictures/CG_48.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/CG_48.rpgmvp
+/img/pictures/Kanako_4.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/Kanako_4.rpgmvp
+/img/pictures/Kanako_5.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/Kanako_5.rpgmvp
+/img/pictures/Kanako_6.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/Kanako_6.rpgmvp
+/img/pictures/Kanako_7.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/Kanako_7.rpgmvp
+/img/pictures/Kanako_8.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/Kanako_8.rpgmvp
+/data/Map052.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map052.json
+/data/Map076.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map076.json
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/data/Items.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Items.json
+<End of Version>
