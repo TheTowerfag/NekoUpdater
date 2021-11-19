@@ -40,3 +40,9 @@
 /data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
 /data/Items.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Items.json
 <End of Version>
+
+<Version: 14.05>
+/audio/se/Kanako.rpgmvo https://princessconquest.com/wp-content/uploads/2021/11/Kanako.rpgmvo
+/audio/se/BirdTweet.rpgmvo https://princessconquest.com/wp-content/uploads/2021/11/BirdTweet.rpgmvo
+/audio/se/NekoLick.rpgmvo https://princessconquest.com/wp-content/uploads/2021/11/NekoLick.rpgmvo
+<End of Version>
