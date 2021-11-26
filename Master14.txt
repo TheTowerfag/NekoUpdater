@@ -46,3 +46,15 @@
 /audio/se/BirdTweet.rpgmvo https://princessconquest.com/wp-content/uploads/2021/11/BirdTweet.rpgmvo
 /audio/se/NekoLick.rpgmvo https://princessconquest.com/wp-content/uploads/2021/11/NekoLick.rpgmvo
 <End of Version>
+
+<Version: 14.06>
+/img/animations/ClawSpecial2.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/ClawSpecial2.rpgmvp
+/img/animations/ClawSpecial1.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/ClawSpecial1.rpgmvp
+/img/animations/30FPS_ACQ015_Rage.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/30FPS_ACQ015_Rage.rpgmvp
+/img/animations/30FPS_ACQ002_Slash2mir.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/30FPS_ACQ002_Slash2mir.rpgmvp
+/audio/se/AnzuRage (1).rpgmvo https://princessconquest.com/wp-content/uploads/2021/11/AnzuRage-1-1.rpgmvo
+/audio/se/Attack2.rpgmvo https://princessconquest.com/wp-content/uploads/2021/11/Attack2.rpgmvo
+/audio/se/Darkness4.rpgmvo https://princessconquest.com/wp-content/uploads/2021/11/Darkness4.rpgmvo
+/data/Weapons.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Weapons.json
+/data/Armors.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Armors.json
+<End of Version>
