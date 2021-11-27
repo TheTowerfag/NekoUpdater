@@ -12,6 +12,7 @@
 /img/pictures/CG_22.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/CG_22.rpgmvp
 /img/pictures/CG_23.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/CG_23.rpgmvp
 /img/pictures/CG_24.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/CG_24.rpgmvp
+/img/SumRndmDde/preload/Background.png https://princessconquest.com/wp-content/uploads/2021/11/Background-4.png
 <End of Version>
 
 <Version: 14.02>
