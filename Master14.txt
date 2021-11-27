@@ -5,7 +5,6 @@
 /js/plugins.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/plugins.js
 /data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
 /data/Map033.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map033.json
-/data/Map052.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map052.json
 /img/pictures/CG_19.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/CG_19.rpgmvp
 /img/pictures/CG_20.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/CG_20.rpgmvp
 /img/pictures/CG_21.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/CG_21.rpgmvp
@@ -21,9 +20,6 @@
 /img/characters/!$BellaDonnaATK1.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/BellaDonnaATK1.rpgmvp
 /img/characters/!$BellaDonnaATK2.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/BellaDonnaATK2.rpgmvp
 /img/characters/!$BellaDonnaATK3.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/BellaDonnaATK3.rpgmvp
-<End of Version>
-
-<Version: 14.03>
 <End of Version>
 
 <Version: 14.04>
