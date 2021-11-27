@@ -1,0 +1,15 @@
+<Version: 14.00>
+<End of Version>
+
+<Version: 14.01>
+/js/plugins.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/plugins.js
+/data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
+/data/Map033.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map033.json
+/data/Map052.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map052.json
+/img/pictures/CG_19.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/CG_19.rpgmvp
+/img/pictures/CG_20.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/CG_20.rpgmvp
+/img/pictures/CG_21.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/CG_21.rpgmvp
+/img/pictures/CG_22.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/CG_22.rpgmvp
+/img/pictures/CG_23.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/CG_23.rpgmvp
+/img/pictures/CG_24.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/CG_24.rpgmvp
+<End of Version>

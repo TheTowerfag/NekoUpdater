@@ -1,0 +1,13 @@
+<Version: 11.00>
+<End of Version>
+
+<Version: 11.01>
+/data/Map007.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map007.json
+/data/Map046.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map046.json
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/js/plugins/GALV_MessageBusts.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/GALV_MessageBusts.js
+/data/Items.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Items.json
+/data/States.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/States.json
+/data/Armors.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Armors.json
+/data/Animations.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Animations.json
+<End of Version>

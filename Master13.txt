@@ -1,0 +1,10 @@
+<Version: 13.00>
+<End of Version>
+
+<Version: 13.01>
+/data/Map001.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map001.json
+/data/Map020.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map020.json
+/data/Map033.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map033.json
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/data/Tilesets.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Tilesets.json
+<End of Version>
