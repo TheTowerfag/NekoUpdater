@@ -2,8 +2,6 @@
 <End of Version>
 
 <Version: 14.01>
-/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
-/data/Items.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Items.json
 /data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
 /data/Map033.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map033.json
 /data/Map052.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map052.json
@@ -25,7 +23,6 @@
 <End of Version>
 
 <Version: 14.03>
-/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
 <End of Version>
 
 <Version: 14.04>
@@ -52,7 +49,6 @@
 /img/animations/ClawSpecial1.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/ClawSpecial1.rpgmvp
 /img/animations/30FPS_ACQ015_Rage.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/30FPS_ACQ015_Rage.rpgmvp
 /img/animations/30FPS_ACQ002_Slash2mir.rpgmvp https://princessconquest.com/wp-content/uploads/2021/11/30FPS_ACQ002_Slash2mir.rpgmvp
-/audio/se/AnzuRage (1).rpgmvo https://princessconquest.com/wp-content/uploads/2021/11/AnzuRage-1-1.rpgmvo
 /audio/se/Attack2.rpgmvo https://princessconquest.com/wp-content/uploads/2021/11/Attack2.rpgmvo
 /audio/se/Darkness4.rpgmvo https://princessconquest.com/wp-content/uploads/2021/11/Darkness4.rpgmvo
 /data/Weapons.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Weapons.json
