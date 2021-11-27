@@ -2,6 +2,7 @@
 <End of Version>
 
 <Version: 14.01>
+/js/plugins.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/plugins.js
 /data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
 /data/Map033.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map033.json
 /data/Map052.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map052.json
@@ -53,4 +54,5 @@
 /audio/se/Darkness4.rpgmvo https://princessconquest.com/wp-content/uploads/2021/11/Darkness4.rpgmvo
 /data/Weapons.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Weapons.json
 /data/Armors.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Armors.json
+/js/plugins.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/plugins.js
 <End of Version>
