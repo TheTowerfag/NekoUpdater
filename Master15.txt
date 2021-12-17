@@ -1,2 +1,11 @@
 <Version: 15.00>
 <End of Version>
+
+<Version: 15.01>
+/data/Map049.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map049.json
+/img/characters/!$BellaDonnaATK0.rpgmvp https://princessconquest.com/wp-content/uploads/2021/12/BellaDonnaATK0.rpgmvp
+/img/characters/!$BellaDonnaATK1.rpgmvp https://princessconquest.com/wp-content/uploads/2021/12/BellaDonnaATK1.rpgmvp
+/img/characters/!$BellaDonnaATK2.rpgmvp https://princessconquest.com/wp-content/uploads/2021/12/BellaDonnaATK2.rpgmvp
+/img/characters/!$BellaDonnaATK3.rpgmvp https://princessconquest.com/wp-content/uploads/2021/12/BellaDonnaATK3.rpgmvp
+/img/characters/!$EXPLDoors.rpgmvp https://princessconquest.com/wp-content/uploads/2021/12/EXPLDoors.rpgmvp
+<End of Version>
