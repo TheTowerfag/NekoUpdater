@@ -9,3 +9,10 @@
 /img/characters/!$BellaDonnaATK3.rpgmvp https://princessconquest.com/wp-content/uploads/2021/12/BellaDonnaATK3.rpgmvp
 /img/characters/!$EXPLDoors.rpgmvp https://princessconquest.com/wp-content/uploads/2021/12/EXPLDoors.rpgmvp
 <End of Version>
+
+<Version: 15.02>
+/data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
+/data/Map024.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map024.json
+/data/Map031.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map031.json
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+<End of Version>
