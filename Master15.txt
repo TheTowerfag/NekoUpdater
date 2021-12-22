@@ -20,3 +20,12 @@
 /data/Map009.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map009.json
 /data/Map052.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map052.json
 <End of Version>
+
+<Version: 15.04>
+/data/Map062.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map062.json
+/data/Armors.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Armors.json
+/data/Classes.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Classes.json
+/data/Enemies.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Enemies.json
+/data/System.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/System.json
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+<End of Version>
