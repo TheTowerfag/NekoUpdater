@@ -30,5 +30,4 @@
 
 <Version: 15.05>
 /data/Map062.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map062.json
-/data/System.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/System.json
 <End of Version>
