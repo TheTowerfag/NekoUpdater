@@ -38,7 +38,5 @@
 /data/Map048.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map048.json
 /data/Map051.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map051.json
 /data/Map052.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map052.json
-/models/CuccoSkull.obj https://http://dept.progenynft.com/CuccoSkull.obj
-/models/CuccoSkull.mtl https://http://dept.progenynft.com/CuccoSkull.mtl
 /img/pictures/FutaRelic.rpgmvp https://princessconquest.com/wp-content/uploads/2021/12/FutaRelic.rpgmvp
 <End of Version>
