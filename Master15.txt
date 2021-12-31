@@ -17,17 +17,28 @@
 
 <Version: 15.03>
 /data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
-/data/Map009.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map009.json
-/data/Map052.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map052.json
 <End of Version>
 
 <Version: 15.04>
 /data/Armors.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Armors.json
 /data/Classes.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Classes.json
 /data/Enemies.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Enemies.json
-/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
 <End of Version>
 
 <Version: 15.05>
 /data/Map062.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map062.json
+<End of Version>
+
+<Version: 15.06>
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/data/Map007.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map007.json
+/data/Map009.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map009.json
+/data/Map020.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map020.json
+/data/Map047.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map047.json
+/data/Map048.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map048.json
+/data/Map051.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map051.json
+/data/Map052.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map052.json
+/models/CuccoSkull.obj https://http://dept.progenynft.com/CuccoSkull.obj
+/models/CuccoSkull.mtl https://http://dept.progenynft.com/CuccoSkull.mtl
+/img/pictures/FutaRelic.rpgmvp https://princessconquest.com/wp-content/uploads/2021/12/FutaRelic.rpgmvp
 <End of Version>
