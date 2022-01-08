@@ -5,3 +5,27 @@
 /data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
 /data/Map056.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map056.json
 <End of Version>
+
+<Version: 15.08>
+/data/Map076.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map076.json
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/data/Items.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Items.json
+/img/pictures/CG_45.rpgmvp https://princessconquest.com/wp-content/uploads/2022/01/CG_45.rpgmvp
+/img/pictures/CG_46.rpgmvp https://princessconquest.com/wp-content/uploads/2022/01/CG_46.rpgmvp
+/img/pictures/CG_47.rpgmvp https://princessconquest.com/wp-content/uploads/2022/01/CG_47.rpgmvp
+/img/pictures/CG_48.rpgmvp https://princessconquest.com/wp-content/uploads/2022/01/CG_48.rpgmvp
+/img/pictures/CG_49.rpgmvp https://princessconquest.com/wp-content/uploads/2022/01/CG_49.rpgmvp
+/img/pictures/Abigail_1OWL.rpgmvp https://princessconquest.com/wp-content/uploads/2022/01/Abigail_1OWL.rpgmvp
+/img/pictures/Abigail_1OWLn.rpgmvp https://princessconquest.com/wp-content/uploads/2022/01/Abigail_1OWLn.rpgmvp
+/img/pictures/Abigail_2OWL.rpgmvp https://princessconquest.com/wp-content/uploads/2022/01/Abigail_2OWL.rpgmvp
+/img/pictures/Abigail_2OWLn.rpgmvp https://princessconquest.com/wp-content/uploads/2022/01/Abigail_2OWLn.rpgmvp
+/img/pictures/Abigail_3OWL.rpgmvp https://princessconquest.com/wp-content/uploads/2022/01/Abigail_3OWL.rpgmvp
+/img/pictures/Abigail_3OWLn.rpgmvp https://princessconquest.com/wp-content/uploads/2022/01/Abigail_3OWLn.rpgmvp
+/img/pictures/Kanako_1n.rpgmvp https://princessconquest.com/wp-content/uploads/2022/01/Kanako_1n.rpgmvp
+/img/pictures/Kanako_2n.rpgmvp https://princessconquest.com/wp-content/uploads/2022/01/Kanako_2n.rpgmvp
+/img/pictures/Kanako_3n.rpgmvp https://princessconquest.com/wp-content/uploads/2022/01/Kanako_3n.rpgmvp
+/img/pictures/AnzuPants.rpgmvp https://princessconquest.com/wp-content/uploads/2022/01/AnzuPants.rpgmvp
+/img/system/IconSet.rpgmvp https://princessconquest.com/wp-content/uploads/2022/01/IconSet.rpgmvp
+/js/plugins/GALV_MessageBusts.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/GALV_MessageBusts.js
+/js/plugins.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/plugins.js
+<End of Version>
