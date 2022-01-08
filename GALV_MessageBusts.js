@@ -353,6 +353,7 @@ Sprite_GalvBust.prototype.loadBitmap = function() {
 	} else {
         //
         Galv.MB.f = "";
+		form = "";
         if ($gameMessage.faceName() === "Shina"){ 
         if ($gameActors.actor(4).equips()[1] && $gameActors.actor(4).equips()[1].id == 11){ //underwear
           Galv.MB.f = "u";
@@ -367,6 +368,18 @@ Sprite_GalvBust.prototype.loadBitmap = function() {
         } else {
           Galv.MB.f = "n";
         }       
+			if ($gameVariables.value(4004) === 2){ //Cheat - Human
+				form = "";   
+			} else if ($gameVariables.value(4004) === 3){ //Cheat - Cow
+				form = "COW";   
+			}
+			if ($gameVariables.value(4007) === 2){ //Cheat - Dressed
+				Galv.MB.f = "";   
+			} else if ($gameVariables.value(4007) === 3){ //Cheat - Underwear
+				Galv.MB.f = "u"; 
+			} else if ($gameVariables.value(4007) === 4){ //Cheat - Naked
+				Galv.MB.f = "n";  				
+			}		
         }
         if ($gameMessage.faceName() === "Nou"){ 
         if ($gameSwitches.value(152) === true){ //bath
@@ -374,8 +387,53 @@ Sprite_GalvBust.prototype.loadBitmap = function() {
         } else {
           Galv.MB.f = "";
         }       
+			if ($gameVariables.value(4021) === 2){ //Cheat - Dressed
+				Galv.MB.f = "";   
+			} else if ($gameVariables.value(4021) === 3){ //Cheat - Naked
+				Galv.MB.f = "n";  				
+			}		
         }
-        if ($gameMessage.faceName() === "Kaere"){ 
+        if ($gameMessage.faceName() === "Kanako"){ 
+				if ($gameVariables.value(4029) === 2){ //Cheat - Dressed
+					Galv.MB.f = "";   
+				} else if ($gameVariables.value(4029) === 3){ //Cheat - Naked
+					Galv.MB.f = "n";  				
+				}		
+				if ($gameMessage.faceIndex() === 5 || $gameMessage.faceIndex() === 6) {
+					Galv.MB.f = "";
+				} 
+			}		
+        if ($gameMessage.faceName() === "Lina"){    
+				if ($gameVariables.value(4023) === 2){ //Cheat - Dressed
+					Galv.MB.f = "";   
+				} else if ($gameVariables.value(4023) === 3){ //Cheat - Naked
+					Galv.MB.f = "n";  				
+				}		
+		}		
+		if ($gameMessage.faceName() === "Emma"){ 
+					if ($gameVariables.value(4026) === 2){ //Cheat - Dressed
+						Galv.MB.f = "";   
+					} else if ($gameVariables.value(4026) === 3){ //Cheat - Naked
+						Galv.MB.f = "n";  				
+					}		
+			}		
+		if ($gameMessage.faceName() === "Anemone"){ 
+					if ($gameVariables.value(4022) === 2){ //Cheat - Dressed
+						Galv.MB.f = "";   
+					} else if ($gameVariables.value(4022) === 3){ //Cheat - Naked
+						Galv.MB.f = "n";  				
+					}		
+			}		
+		if ($gameMessage.faceName() === "OMegumi"){ 
+				if ($gameVariables.value(4027) === 2){ //Cheat - Dressed
+					Galv.MB.f = "";   
+				} else if ($gameVariables.value(4027) === 3){ //Cheat - Underwear
+					Galv.MB.f = "u"; 
+				} else if ($gameVariables.value(4027) === 4){ //Cheat - Naked
+					Galv.MB.f = "n";  				
+				}			
+			}											
+        if ($gameMessage.faceName() === "Kaere"){ 			
         if ($gameActors.actor(3).equips()[1] && $gameActors.actor(3).equips()[1].id == 11){ //underwear
           Galv.MB.f = "u";
         } else if ($gameActors.actor(3).equips()[1] && $gameActors.actor(3).equips()[1].id == 12){ //naked
@@ -389,8 +447,20 @@ Sprite_GalvBust.prototype.loadBitmap = function() {
         } else {
           Galv.MB.f = "n";
         }       
+			if ($gameVariables.value(4005) === 2){ //Cheat - Human
+				form = "";   
+			} else if ($gameVariables.value(4005) === 3){ //Cheat - Frog
+				form = "FROG";   
+			}
+			if ($gameVariables.value(4008) === 2){ //Cheat - Dressed
+				Galv.MB.f = "";   
+			} else if ($gameVariables.value(4008) === 3){ //Cheat - Underwear
+				Galv.MB.f = "u"; 
+			} else if ($gameVariables.value(4008) === 4){ //Cheat - Naked
+				Galv.MB.f = "n";  				
+			}		
         }
-        if ($gameMessage.faceName() === "AnzuSSS"){ 
+        if ($gameMessage.faceName() === "Anzu"){
         if ($gameActors.actor(5).equips()[1] && $gameActors.actor(5).equips()[1].id == 11){ //underwear
           Galv.MB.f = "u";
         } else if ($gameActors.actor(5).equips()[1] && $gameActors.actor(5).equips()[1].id == 12){ //naked
@@ -403,14 +473,38 @@ Sprite_GalvBust.prototype.loadBitmap = function() {
           Galv.MB.f = "u";
         } else {
           Galv.MB.f = "n";
-        }       
+        }              
+			if ($gameVariables.value(4006) === 2){ //Cheat - Human
+				form = "";   
+			} else if ($gameVariables.value(4006) === 3){ //Cheat - ???
+				form = "???";   
+			}
+			if ($gameVariables.value(4009) === 2){ //Cheat - Dressed
+				Galv.MB.f = "";   
+			} else if ($gameVariables.value(4009) === 3){ //Cheat - Underwear
+				Galv.MB.f = "u"; 
+			} else if ($gameVariables.value(4009) === 4){ //Cheat - Naked
+				Galv.MB.f = "n";  				
+			}		
         }
         if ($gameMessage.faceName() === "Abigail"){ 
-        if ($gameSwitches.value(168) === true){ //bath
+        if ($gameSwitches.value(168) === true){ //abigail mad
           Galv.MB.f = "n"; 
+		  form = "OWL";  
         } else {
           Galv.MB.f = "";
+		  form = "";  
         }         
+		if ($gameVariables.value(4024) === 2){ //Cheat - Human
+			form = "";  
+		} else if ($gameVariables.value(4024) === 3){ //Cheat - Owl
+			form = "OWL";  
+		}
+		if ($gameVariables.value(4025) === 2){ //Cheat - Dressed
+			Galv.MB.f = "";   
+		} else if ($gameVariables.value(4025) === 3){ //Cheat - Naked
+			Galv.MB.f = "n"; 				
+		}	
         }       
         if ($gameMessage.faceName() === "Neneko" || $gameMessage.faceName() === "Neneko2"){       
         if ($gameActors.actor(1).equips()[1] && $gameActors.actor(1).equips()[1].id == 105){ //armor
@@ -424,9 +518,25 @@ Sprite_GalvBust.prototype.loadBitmap = function() {
         } else {
         Galv.MB.f = "n";
         }
+					if ($gameVariables.value(4013) === 2){ //Cheat - Human
+				form = "";   
+			} else if ($gameVariables.value(4013) === 3){ //Cheat - ???
+				form = "???";   
+			}
+			if ($gameVariables.value(4014) === 2){ //Cheat - Dressed
+				Galv.MB.f = "";   
+			} else if ($gameVariables.value(4014) === 3){ //Cheat - Underwear
+				Galv.MB.f = "u"; 
+			} else if ($gameVariables.value(4014) === 4){ //Cheat - batpants
+				Galv.MB.f = "bat";  				
+			} else if ($gameVariables.value(4014) === 5){ //Cheat - armor
+				Galv.MB.f = "sdf";  				
+			} else if ($gameVariables.value(4014) === 6){ //Cheat - Naked
+				Galv.MB.f = "n";  				
+			}	
         }
         //
-		var img = ImageManager.loadPicture(name + Galv.MB.f);
+		var img = ImageManager.loadPicture(name + form + Galv.MB.f);
 	};
 	if (img.isReady()) {
 		if (this.bitmap) {
