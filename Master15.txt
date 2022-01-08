@@ -16,7 +16,6 @@
 <End of Version>
 
 <Version: 15.03>
-/data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
 <End of Version>
 
 <Version: 15.04>
@@ -39,4 +38,9 @@
 /data/Map051.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map051.json
 /data/Map052.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map052.json
 /img/pictures/FutaRelic.rpgmvp https://princessconquest.com/wp-content/uploads/2021/12/FutaRelic.rpgmvp
+<End of Version>
+
+<Version: 15.07>
+/data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
+/data/Map056.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map056.json
 <End of Version>
