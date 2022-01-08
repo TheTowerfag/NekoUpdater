@@ -1,2 +1,7 @@
 <Version: 15.06>
 <End of Version>
+
+<Version: 15.07>
+/data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
+/data/Map056.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map056.json
+<End of Version>
