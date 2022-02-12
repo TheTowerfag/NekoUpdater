@@ -1,2 +1,10 @@
 <Version: 17.00>
 <End of Version>
+
+<Version: 17.01>
+/audio/bgm/DTNH-SafetyThird.rpgmvo https://princessconquest.com/wp-content/uploads/2022/02/DTNH-SafetyThird.rpgmvo
+/audio/bgm/DTNH-SafetyThirdNight.rpgmvo https://princessconquest.com/wp-content/uploads/2022/02/DTNH-SafetyThirdNight.rpgmvo
+/audio/bgm/DTNH-SliceOfNeko.rpgmvo https://princessconquest.com/wp-content/uploads/2022/02/DTNH-SliceOfNeko.rpgmvo
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/data/Map052.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map052.json
+<End of Version>
