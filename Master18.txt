@@ -1,2 +1,12 @@
 <Version: 18.00>
 <End of Version>
+
+<Version: 18.01>
+/data/Map009.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map009.json
+/data/Map012.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map012.json
+/data/Map020.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map020.json
+/data/Map037.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map037.json
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/img/pictures/LiliFBla.rpgmvp https://princessconquest.com/wp-content/uploads/2022/03/LiliFBla.rpgmvp
+/audio/se/Absorb2.rpgmvo https://princessconquest.com/wp-content/uploads/2022/03/Absorb2.rpgmvo
+<End of Version>
