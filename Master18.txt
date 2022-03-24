@@ -10,3 +10,26 @@
 /img/pictures/LiliFBla.rpgmvp https://princessconquest.com/wp-content/uploads/2022/03/LiliFBla.rpgmvp
 /audio/se/Absorb2.rpgmvo https://princessconquest.com/wp-content/uploads/2022/03/Absorb2.rpgmvo
 <End of Version>
+
+<Version: 18.02>
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/data/States.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/States.json
+/data/Armors.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Armors.json
+/data/Animations.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Animations.json
+/data/Weapons.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Weapons.json
+/data/Map052.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map052.json
+/data/Map058.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map058.json
+/img/system/IconSet.rpgmvp https://princessconquest.com/wp-content/uploads/2022/03/IconSet.rpgmvp
+/img/characters/$Ruina.rpgmvp https://princessconquest.com/wp-content/uploads/2022/03/Ruina.rpgmvp
+/img/characters/$ManaEel.rpgmvp https://princessconquest.com/wp-content/uploads/2022/03/ManaEel.rpgmvp
+/img/pictures/BlackCat_5.rpgmvp https://princessconquest.com/wp-content/uploads/2022/03/BlackCat_5.rpgmvp
+/img/pictures/BlackCat_6.rpgmvp https://princessconquest.com/wp-content/uploads/2022/03/BlackCat_6.rpgmvp
+/img/pictures/IceRes+.rpgmvp https://princessconquest.com/wp-content/uploads/2022/03/IceRes.rpgmvp
+/img/pictures/WaterRes+.rpgmvp https://princessconquest.com/wp-content/uploads/2022/03/WaterRes.rpgmvp
+/img/pictures/FireRes+.rpgmvp https://princessconquest.com/wp-content/uploads/2022/03/FireRes.rpgmvp
+/img/pictures/RockRes+.rpgmvp https://princessconquest.com/wp-content/uploads/2022/03/RockRes.rpgmvp
+/img/pictures/ThunRes+.rpgmvp https://princessconquest.com/wp-content/uploads/2022/03/ThunRes.rpgmvp
+/img/pictures/WindRes+.rpgmvp https://princessconquest.com/wp-content/uploads/2022/03/WindRes.rpgmvp
+/audio/bgm/DTNH-SafetyThird.rpgmvo https://princessconquest.com/wp-content/uploads/2022/03/DTNH-SafetyThird.rpgmvo
+/audio/bgm/DTNH-SafetyThirdNight.rpgmvo https://princessconquest.com/wp-content/uploads/2022/03/DTNH-SafetyThirdNight.rpgmvo
+<End of Version>
