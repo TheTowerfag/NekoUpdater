@@ -1,2 +1,11 @@
 <Version: 19.00>
 <End of Version>
+
+<Version: 19.01>
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/data/Map002.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map002.json
+/data/Map022.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map022.json
+/data/Map024.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map024.json
+/data/Map071.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map071.json
+/data/Map076.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map076.json
+<End of Version>
