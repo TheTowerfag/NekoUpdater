@@ -2,10 +2,29 @@
 <End of Version>
 
 <Version: 19.01>
-/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
 /data/Map002.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map002.json
 /data/Map022.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map022.json
 /data/Map024.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map024.json
 /data/Map071.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map071.json
 /data/Map076.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map076.json
+<End of Version>
+
+<Version: 19.02>
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/data/Map052.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map052.json
+/data/Map070.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map072.json
+/img/characters/!$AnzuDMG.rpgmvp https://princessconquest.com/wp-content/uploads/2022/04/AnzuDMG.rpgmvp
+/img/characters/!$AnzuSleep.rpgmvp https://princessconquest.com/wp-content/uploads/2022/04/AnzuSleep.rpgmvp
+/img/characters/$AnzuFly.rpgmvp https://princessconquest.com/wp-content/uploads/2022/04/AnzuFly.rpgmvp
+/img/characters/$AnzuWalk.rpgmvp https://princessconquest.com/wp-content/uploads/2022/04/AnzuWalk.rpgmvp
+/img/characters/!$ShinaCowDMG.rpgmvp https://princessconquest.com/wp-content/uploads/2022/04/ShinaCowDMG.rpgmvp
+/img/characters/!$ShinaSleepStand.rpgmvp https://princessconquest.com/wp-content/uploads/2022/04/ShinaSleepStand.rpgmvp
+/img/characters/$ShinaCow.rpgmvp https://princessconquest.com/wp-content/uploads/2022/04/ShinaCow.rpgmvp
+/img/characters/$ShinaDMG.rpgmvp https://princessconquest.com/wp-content/uploads/2022/04/ShinaDMG.rpgmvp
+/img/characters/$ShinaSeed.rpgmvp https://princessconquest.com/wp-content/uploads/2022/04/ShinaSeed.rpgmvp
+/img/characters/$Shina.rpgmvp https://princessconquest.com/wp-content/uploads/2022/04/Shina.rpgmvp
+/img/characters/!$KaereDMG.rpgmvp https://princessconquest.com/wp-content/uploads/2022/04/KaereDMG.rpgmvp
+/img/characters/!$KaereFrogDMG.rpgmvp https://princessconquest.com/wp-content/uploads/2022/04/KaereFrogDMG.rpgmvp
+/img/characters/$Kaere.rpgmvp https://princessconquest.com/wp-content/uploads/2022/04/KaereFrog.rpgmvp
+/img/characters/$KaereFrog.rpgmvp https://princessconquest.com/wp-content/uploads/2022/04/Kaere.rpgmvp
 <End of Version>
