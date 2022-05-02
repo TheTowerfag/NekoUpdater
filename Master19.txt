@@ -2,18 +2,14 @@
 <End of Version>
 
 <Version: 19.01>
-/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
 /data/Map002.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map002.json
-/data/Map022.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map022.json
 /data/Map024.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map024.json
 /data/Map071.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map071.json
 /data/Map076.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map076.json
 <End of Version>
 
 <Version: 19.02>
-/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
 /data/Map052.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map052.json
-/data/Map070.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map072.json
 /img/characters/!$AnzuDMG.rpgmvp https://princessconquest.com/wp-content/uploads/2022/04/AnzuDMG.rpgmvp
 /img/characters/!$AnzuSleep.rpgmvp https://princessconquest.com/wp-content/uploads/2022/04/AnzuSleep.rpgmvp
 /img/characters/$AnzuFly.rpgmvp https://princessconquest.com/wp-content/uploads/2022/04/AnzuFly.rpgmvp
@@ -26,6 +22,28 @@
 /img/characters/$Shina.rpgmvp https://princessconquest.com/wp-content/uploads/2022/04/Shina.rpgmvp
 /img/characters/!$KaereDMG.rpgmvp https://princessconquest.com/wp-content/uploads/2022/04/KaereDMG.rpgmvp
 /img/characters/!$KaereFrogDMG.rpgmvp https://princessconquest.com/wp-content/uploads/2022/04/KaereFrogDMG.rpgmvp
-/img/characters/$Kaere.rpgmvp https://princessconquest.com/wp-content/uploads/2022/04/KaereFrog.rpgmvp
-/img/characters/$KaereFrog.rpgmvp https://princessconquest.com/wp-content/uploads/2022/04/Kaere.rpgmvp
+<End of Version>
+
+<Version: 19.03>
+/data/Map019.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map019.json
+/data/Map022.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map022.json
+/data/Map031.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map031.json
+/data/Map041.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map041.json
+/data/Map046.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map046.json
+/data/Map047.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map047.json
+/data/Map052.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map052.json
+/data/Map070.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map070.json
+/data/Armors.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Armors.json
+/data/Weapons.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Weapons.json
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/img/characters/$Kaere.rpgmvp https://princessconquest.com/wp-content/uploads/2022/05/Kaere.rpgmvp
+/img/characters/$KaereFrog.rpgmvp https://princessconquest.com/wp-content/uploads/2022/04/KaereFrog.rpgmvp
+/img/characters/$Burilla.rpgmvp https://princessconquest.com/wp-content/uploads/2022/05/Burilla.rpgmvp
+/img/characters/!$BurillaSleep.rpgmvp https://princessconquest.com/wp-content/uploads/2022/05/BurillaSleep.rpgmvp
+/img/characters/!$BurillaDeadZ.rpgmvp https://princessconquest.com/wp-content/uploads/2022/05/BurillaDeadZ.rpgmvp
+/img/characters/!$BurillaATK0.rpgmvp https://princessconquest.com/wp-content/uploads/2022/05/BurillaATK0.rpgmvp
+/img/characters/!$BurillaATK1.rpgmvp https://princessconquest.com/wp-content/uploads/2022/05/BurillaATK1.rpgmvp
+/img/characters/!$BurillaATK2.rpgmvp https://princessconquest.com/wp-content/uploads/2022/05/BurillaATK2.rpgmvp
+/img/characters/!$BurillaATK3.rpgmvp https://princessconquest.com/wp-content/uploads/2022/05/BurillaATK3.rpgmvp
+/js/rpg_scenes.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/rpg_scenes.js
 <End of Version>
