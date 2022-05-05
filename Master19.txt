@@ -47,3 +47,24 @@
 /img/characters/!$BurillaATK3.rpgmvp https://princessconquest.com/wp-content/uploads/2022/05/BurillaATK3.rpgmvp
 /js/rpg_scenes.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/rpg_scenes.js
 <End of Version>
+
+<Version: 19.04>
+/data/Map001.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map001.json
+/data/Map009.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map009.json
+/data/Map016.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map016.json
+/data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
+/data/Map018.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map018.json
+/data/Map019.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map019.json
+/data/Map020.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map020.json
+/data/Map023.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map023.json
+/data/Map041.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map041.json
+/data/Map047.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map047.json
+/data/Map056.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map056.json
+/data/Map057.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map057.json
+/data/Map058.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map058.json
+/data/Map059.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map059.json
+/data/Armors.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Armors.json
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/img/characters/!$KirinDead.rpgmvp https://princessconquest.com/wp-content/uploads/2022/05/KirinDead.rpgmvp
+/js/plugins.js https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/plugins01904.js
+<End of Version>
