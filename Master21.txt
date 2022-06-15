@@ -1,2 +1,23 @@
 <Version: 21.00>
 <End of Version>
+
+<Version: 21.01>
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
+/data/Map018.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map018.json
+/data/Map019.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map019.json
+/data/Map020.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map020.json
+/data/Map057.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map057.json
+/data/Map058.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map058.json
+/data/Map059.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map059.json
+/data/Map071.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map071.json
+/data/Map072.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map072.json
+/data/Map073.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map073.json
+/data/Map074.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map074.json
+/data/Map075.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map075.json
+/data/Map078.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map078.json
+/data/Map079.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map079.json
+/data/Map080.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map080.json
+/data/Map081.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map081.json
+/data/Map082.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map082.json
+<End of Version>
