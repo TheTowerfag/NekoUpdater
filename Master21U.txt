@@ -3,7 +3,6 @@
 
 <Version: 21.01>
 /data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
-/data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
 /data/Map018.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map018.json
 /data/Map019.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map019.json
 /data/Map020.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map020.json
@@ -20,4 +19,34 @@
 /data/Map080.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map080.json
 /data/Map081.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map081.json
 /data/Map082.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map082.json
+<End of Version>
+
+<Version: 21.02>
+/data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
+/data/Map052.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map052.json
+/data/Map069.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map069.json
+/data/Map070.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map070.json
+/data/MapInfos.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/MapInfos.json
+/img/pictures/ORin_1.rpgmvp https://princessconquest.com/wp-content/uploads/2022/06/ORin_1.rpgmvp
+/img/pictures/ORin_1n.rpgmvp https://princessconquest.com/wp-content/uploads/2022/06/ORin_1n.rpgmvp
+/img/pictures/ORin_2.rpgmvp https://princessconquest.com/wp-content/uploads/2022/06/ORin_2.rpgmvp
+/img/pictures/ORin_2n.rpgmvp https://princessconquest.com/wp-content/uploads/2022/06/ORin_2n.rpgmvp
+/img/pictures/ORin_3.rpgmvp https://princessconquest.com/wp-content/uploads/2022/06/ORin_3.rpgmvp
+/img/pictures/ORin_3n.rpgmvp https://princessconquest.com/wp-content/uploads/2022/06/ORin_3n.rpgmvp
+/img/pictures/ORin_4.rpgmvp https://princessconquest.com/wp-content/uploads/2022/06/ORin_4.rpgmvp
+/img/pictures/ORin_4n.rpgmvp https://princessconquest.com/wp-content/uploads/2022/06/ORin_4n.rpgmvp
+/img/pictures/Perina_2.rpgmvp https://princessconquest.com/wp-content/uploads/2022/06/Perina_2.rpgmvp
+/img/pictures/Perina_2n.rpgmvp https://princessconquest.com/wp-content/uploads/2022/06/Perina_2n.rpgmvp
+/img/pictures/Perina_4.rpgmvp https://princessconquest.com/wp-content/uploads/2022/06/Perina_4.rpgmvp
+/img/pictures/Perina_4n.rpgmvp https://princessconquest.com/wp-content/uploads/2022/06/Perina_4n.rpgmvp
+/img/pictures/Zokuki_1.rpgmvp https://princessconquest.com/wp-content/uploads/2022/06/Zokuki_1.rpgmvp
+/img/pictures/Zokuki_1n.rpgmvp https://princessconquest.com/wp-content/uploads/2022/06/Zokuki_1n.rpgmvp
+/img/pictures/Zokuki_2.rpgmvp https://princessconquest.com/wp-content/uploads/2022/06/Zokuki_2.rpgmvp
+/img/pictures/Zokuki_2n.rpgmvp https://princessconquest.com/wp-content/uploads/2022/06/Zokuki_2n.rpgmvp
+/img/pictures/Zokuki_3.rpgmvp https://princessconquest.com/wp-content/uploads/2022/06/Zokuki_3.rpgmvp
+/img/pictures/Zokuki_3n.rpgmvp https://princessconquest.com/wp-content/uploads/2022/06/Zokuki_3n.rpgmvp
+/img/pictures/Zokuki_4.rpgmvp https://princessconquest.com/wp-content/uploads/2022/06/Zokuki_4.rpgmvp
+/img/pictures/Zokuki_4n.rpgmvp https://princessconquest.com/wp-content/uploads/2022/06/Zokuki_4n.rpgmvp
+/img/pictures/Zokuki_5.rpgmvp https://princessconquest.com/wp-content/uploads/2022/06/Zokuki_5.rpgmvp
+/img/pictures/Zokuki_5n.rpgmvp https://princessconquest.com/wp-content/uploads/2022/06/Zokuki_5n.rpgmvp
 <End of Version>
