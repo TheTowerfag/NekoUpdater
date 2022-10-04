@@ -65,13 +65,17 @@
 /audio/se/Cow.rpgmvo https://princessconquest.com/wp-content/uploads/2022/09/Cow.rpgmvo
 <End of Version>
 
+
 <Version: 23.02>
-/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
 /data/Map058.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map058.json
 /data/Map073.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map073.json
 /data/Map075.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map075.json
-/img/pictures/CG_90.rpgmvp https://princessconquest.com/wp-content/uploads/2022/09/CG_90.rpgmvp
-/img/pictures/CG_91.rpgmvp https://princessconquest.com/wp-content/uploads/2022/09/CG_91.rpgmvp
-/img/pictures/CG_92.rpgmvp https://princessconquest.com/wp-content/uploads/2022/09/CG_92.rpgmvp
-/img/pictures/CG_93.rpgmvp https://princessconquest.com/wp-content/uploads/2022/09/CG_93.rpgmvp
+<End of Version>
+
+<Version: 23.03>
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/img/pictures/CG_90.rpgmvp https://princessconquest.com/wp-content/uploads/2022/10/CG_90.rpgmvp
+/img/pictures/CG_91.rpgmvp https://princessconquest.com/wp-content/uploads/2022/10/CG_91.rpgmvp
+/img/pictures/CG_92.rpgmvp https://princessconquest.com/wp-content/uploads/2022/10/CG_92.rpgmvp
+/img/pictures/CG_93.rpgmvp https://princessconquest.com/wp-content/uploads/2022/10/CG_93.rpgmvp
 <End of Version>
