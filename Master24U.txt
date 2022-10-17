@@ -1,2 +1,7 @@
 <Version: 24.00>
 <End of Version>
+
+<Version: 24.01>
+/data/Map021.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map021.json
+/data/Map071.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map071.json
+<End of Version>
