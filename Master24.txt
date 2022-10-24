@@ -5,3 +5,9 @@
 /data/Map021.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map021.json
 /data/Map071.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map071.json
 <End of Version>
+
+<Version: 24.02>
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/data/Tilesets.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Tilesets.json
+/data/Map033.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map033.json
+<End of Version>
