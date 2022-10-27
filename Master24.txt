@@ -11,3 +11,7 @@
 /data/Tilesets.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Tilesets.json
 /data/Map033.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map033.json
 <End of Version>
+
+<Version: 24.03>
+/data/Map020.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map020.json
+<End of Version>
