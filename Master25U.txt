@@ -1,2 +1,10 @@
 <Version: 25.00>
 <End of Version>
+
+<Version: 25.01>
+/img/pictures/CG_25.rpgmvp https://princessconquest.com/wp-content/uploads/2023/01/CG_25.rpgmvp
+/img/pictures/CG_26.rpgmvp https://princessconquest.com/wp-content/uploads/2023/01/CG_26.rpgmvp
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+/data/Map017.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map017.json
+/data/Map057.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/Map057.json
+<End of Version>
