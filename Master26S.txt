@@ -1,2 +1,6 @@
 <Version: 26.00>
 <End of Version>
+
+<Version: 26.01>
+/data/CommonEvents.json https://raw.githubusercontent.com/TheTowerfag/NekoUpdater/main/CommonEvents.json
+<End of Version>
